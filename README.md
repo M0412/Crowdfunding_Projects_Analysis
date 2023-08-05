@@ -1,4 +1,4 @@
-# Excel-Challenge
+# Crowdfunding_Projects_Analysis
 
 # Organize and analyze a database of 1000 sample projects to uncover any hidden trends with crowdfunded projects.
 
